@@ -1,0 +1,3 @@
+[2020-12-27 08:56:38.425] [sharedprocess] [info] main {"machineId":"65128ac065714ee58d1a2e88582669b07822cd2eacbaf4291c91576757af2602","windowId":2}
+[2020-12-27 08:56:38.637] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/opt/lampp/htdocs/manejo-datos-php/~/.vscode-root/User/snippets'
+[2020-12-27 08:57:18.532] [sharedprocess] [info] Starting to clean up unused language packs.
